@@ -1,2 +1,2 @@
 # django-and-vue
-Vue.jsの作成したUIをDjangoで表示する
+フロントエンドをVue.js、バックエンドをDjangoで開発するための基礎的な環境
